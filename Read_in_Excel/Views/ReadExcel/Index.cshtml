@@ -1,0 +1,23 @@
+﻿@model Read_in_Excel.Models.ReadExcelModel
+@{
+   // Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body>
+    <div>
+        @using(Html.BeginForm("Index1","ReadExcel",FormMethod.Post,new {enctype="multipart/form-data"}))
+        {
+            <input type="submit" name="Submit" id="Submit" value="Upload" />
+            <input type="file" name="FileUpload" />
+            
+        }
+    </div>
+</body>
+</html>

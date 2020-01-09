@@ -1,0 +1,119 @@
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\Read_in_Excel.dll.config
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\Read_in_Excel.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\Read_in_Excel.pdb
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\Antlr3.Runtime.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\EntityFramework.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\EntityFramework.SqlServer.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\itextsharp.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\Newtonsoft.Json.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\PagedList.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\PagedList.Mvc.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.Helpers.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.Mvc.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.Optimization.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.Razor.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.WebPages.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.WebPages.Razor.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\WebGrease.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\EntityFramework.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\EntityFramework.SqlServer.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\itextsharp.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\PagedList.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\PagedList.Mvc.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.Helpers.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.Mvc.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.Optimization.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.Razor.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.WebPages.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\System.Web.WebPages.Razor.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\Newtonsoft.Json.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\bin\Antlr3.Runtime.pdb
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\obj\Debug\Read_in_Excel.csprojResolveAssemblyReference.cache
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\obj\Debug\Interop.ExcelClientPkgLib.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\obj\Debug\Read_in_Excel.csproj.ResolveComReference.cache
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\obj\Debug\Read_in_Excel.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel\Read_in_Excel\obj\Debug\Read_in_Excel.pdb
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\Read_in_Excel.dll.config
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\Read_in_Excel.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\Read_in_Excel.pdb
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\Antlr3.Runtime.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\EntityFramework.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\EntityFramework.SqlServer.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\itextsharp.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\Newtonsoft.Json.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\PagedList.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\PagedList.Mvc.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.Helpers.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.Mvc.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.Optimization.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.Razor.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.WebPages.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.WebPages.Razor.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\WebGrease.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\EntityFramework.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\EntityFramework.SqlServer.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\itextsharp.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\PagedList.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\PagedList.Mvc.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.Helpers.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.Mvc.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.Optimization.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.Razor.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.WebPages.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\System.Web.WebPages.Razor.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\Newtonsoft.Json.xml
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\bin\Antlr3.Runtime.pdb
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\obj\Debug\Read_in_Excel.csprojResolveAssemblyReference.cache
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\obj\Debug\Interop.ExcelClientPkgLib.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\obj\Debug\Read_in_Excel.csproj.ResolveComReference.cache
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\obj\Debug\Read_in_Excel.dll
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\obj\Debug\Read_in_Excel.pdb
+C:\Users\$ARVARBEK\Desktop\Read_in_Excel — копия\Read_in_Excel\obj\Debug\Interop.LCC11.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\Read_in_Excel.dll.config
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\Read_in_Excel.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\Read_in_Excel.pdb
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\Antlr3.Runtime.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\EntityFramework.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\EntityFramework.SqlServer.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\itextsharp.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\Newtonsoft.Json.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\PagedList.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\PagedList.Mvc.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.Helpers.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.Mvc.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.Optimization.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.Razor.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.WebPages.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.WebPages.Razor.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\WebGrease.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\EntityFramework.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\EntityFramework.SqlServer.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\itextsharp.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\PagedList.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\PagedList.Mvc.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.Helpers.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.Mvc.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.Optimization.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.Razor.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.WebPages.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\System.Web.WebPages.Razor.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\Newtonsoft.Json.xml
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\bin\Antlr3.Runtime.pdb
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\obj\Debug\Read_in_Excel.csprojResolveAssemblyReference.cache
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\obj\Debug\Interop.ExcelClientPkgLib.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\obj\Debug\Interop.LCC11.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\obj\Debug\Read_in_Excel.csproj.ResolveComReference.cache
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\obj\Debug\Read_in_Excel.dll
+C:\Users\$ARVARBEK\Desktop\Open Excel in ASP.NET\Read_in_Excel\obj\Debug\Read_in_Excel.pdb
